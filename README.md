@@ -1,1 +1,1 @@
-# Quant projects 
+# Credit risk project 
